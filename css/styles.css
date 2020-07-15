@@ -1,13 +1,96 @@
-.image p{
-  font-size:30px ;
-  color:grey ;
+h1{
+  color: grey
 }
-image{
-  float:centre ;
+.images p {
+  font-size:15px ;
+  color:blue
 }
-.links{
-  background-color: grey ;
+.columns{
+  float:left;
+  width: 1000px;
 }
-.about {
-  line-height: 40px;
+img {
+  border-radius:1000px ;
+  width:25%;
+  float:left;
+  border-left: 2px solid red;
+  border-right: 2px solid blue:
+  border-top: 6px solid black;
+  border-bottom: 8px solid black;
+  border: 2px solid black
+  padding: 50px;
+  margin: 1px;
+  margin-right:2px
+  background-image:
+      url("https://www.pixelstalk.net/wp-content/uploads/2016/10/Binary-Code-Art-1920x1080-Hi-Res.jpg");
+}
+
+
+
+body {
+  background-blend-mode: lighten;
+background-image:
+  color: white;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  font-size: 20
+
+}
+.school {
+  font-weight:bold;
+  color:red;
+}
+.columns{
+  float: right;
+  font-size: 20px;
+  border-left: 2px solid red;
+  border-right: 10px solid blue;
+  border-top: 6px solid black;
+  border-bottom: 8px solid black;
+  border: 2px solid grey;
+  padding: 120px;
+  margin: 20px;
+  margin-right:2px
+  margin-top:2px
+}
+.col{
+  float: right;
+  font-size: 20px;
+  border-left: 2px solid red;
+  border-right: 10px solid blue;
+  border-top: 6px solid black;
+  border-bottom: 8px solid black;
+  border: 2px solid grey;
+  padding: 170px;
+  margin: 20px;
+  margin-right:2px
+  margin-top:2px
+}
+.whole{
+  float:inherit;
+  font-size: 20px;
+  padding: 50px;
+  padding-left: :20px
+  margin:20px;
+  margin-right: 30px;S
+}
+@media screen all
+and (device-width: 360 px)
+and (device-height: 6400 px)
+and (-webkit-device-pixel-ratio: 2)
+        { background-color: black;
+        color: white;
+}
+body{
+  font-size: 1.5em;
+  color:white;
+  background-image:
+      url("https://www.pixelstalk.net/wp-content/uploads/2016/10/Binary-Code-Art-1920x1080-Hi-Res.jpg");
+  background-color: transparent;
+}
+
+.div {
+  background-image:
+      url("https://www.pixelstalk.net/wp-content/uploads/2016/10/Binary-Code-Art-1920x1080-Hi-Res.jpg");
 }
